@@ -1,6 +1,6 @@
 body
 {
-    color: darkgray;
+    color: blueviolet;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -12,11 +12,11 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid grey;
+    border: 2px solid gold;
     margin: 0 auto;
 }
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 15px;
 }
